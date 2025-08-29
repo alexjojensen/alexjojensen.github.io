@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alex Jensen
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Alex
+last_name: Jensen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: North Carolina Museum of Natural Sciences
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
